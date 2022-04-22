@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rameez-Baig
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning C programmingg
 - 💞️ I’m looking to collaborate on projects on c
 - 📫 How to reach me rameezridha@gmail.com
 
